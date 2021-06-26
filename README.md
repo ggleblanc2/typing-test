@@ -48,6 +48,6 @@ The Synchronizer class synchronizes the JScrollBars of the JScrollPanes.
 
 The StartListener class starts the timer when the first character is typed in the right JTextArea.
 
-The TypingEndListener class calculates the statistics on the upper statistics JPanel.  The error calculation probably needs to be more dophisticated.  I didn't want to add a lot of code to detect missing or extra characters.
+The TypingEndListener class calculates the statistics on the upper statistics JPanel.  The error calculation probably needs to be more sophisticated.  I didn't want to add a lot of code to detect missing or extra characters.
 
 The RestartListener class resets the GUI for another attempt / another person.
